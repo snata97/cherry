@@ -5,7 +5,7 @@
 using namespace std;
 
 //GIT
-
+2
 class Money{//деньги
 float quantity;//количество
 	public:
