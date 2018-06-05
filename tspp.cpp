@@ -3,7 +3,7 @@
 #include <cstring>
 #include <fstream>
 using namespace std;
-
+1
 //GIT
 
 class Money{//деньги
