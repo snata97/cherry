@@ -3,7 +3,7 @@
 #include <cstring>
 #include <fstream>
 using namespace std;
-//GIT
+//GIT2
 
 class Money{//деньги
 float quantity;//количество
