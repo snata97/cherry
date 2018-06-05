@@ -4,7 +4,7 @@
 #include <fstream>
 using namespace std;
 //GIT
-
+//1
 class Money{//деньги
 float quantity;//количество
 	public:
