@@ -3,13 +3,9 @@
 #include <cstring>
 #include <fstream>
 using namespace std;
-<<<<<<< HEAD
-//GIT2
 
-=======
 //GIT
-//1
->>>>>>> 297b45a16aeb7d91b7bf017fd6da1b0790098a17
+
 class Money{//деньги
 float quantity;//количество
 	public:
