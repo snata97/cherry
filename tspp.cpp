@@ -4,7 +4,11 @@
 #include <fstream>
 using namespace std;
 //GIT
+<<<<<<< HEAD
 
+=======
+//1
+>>>>>>> 5800eacc0733f603e490e2c52d2d6347ee83094e
 class Money{//деньги
 float quantity;//количество
 	public:
